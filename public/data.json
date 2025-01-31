@@ -1,0 +1,37 @@
+
+
+[
+    {
+      "id": 1,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/46/Bitcoin.svg",
+      "link": "https://bitcoin.org/",
+      "description": "Bitcoin is the first decentralized cryptocurrency, launched in 2009 by Satoshi Nakamoto."
+    },
+    {
+      "id": 2,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/05/Ethereum_logo_2014.svg",
+      "link": "https://ethereum.org/",
+      "description": "Ethereum is a blockchain-based platform for smart contracts and decentralized applications (DApps)."
+    },
+    {
+      "id": 3,
+      "name": "Litecoin",
+      "symbol": "LTC",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Litecoin.png",
+      "link": "https://litecoin.org/",
+      "description": "Litecoin is a peer-to-peer cryptocurrency created by Charlie Lee in 2011."
+    },
+    {
+      "id": 4,
+      "name": "Tether",
+      "symbol": "USDT",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/66/Tether-logo.svg",
+      "link": "https://tether.to/",
+      "description": "Tether (USDT) is a stablecoin pegged to the US dollar, providing price stability in crypto trading."
+    }
+  ]
+  
